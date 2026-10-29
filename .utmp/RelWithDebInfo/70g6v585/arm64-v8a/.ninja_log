@@ -1,0 +1,10 @@
+# ninja log v5
+2	664	1793247738231747693	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	511ec6ed0964a069
+1	668	1793247738236887515	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	1cb989b27b8c9d06
+1	678	1793247738248063994	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	9ba82e3272cb1d4c
+2	682	1793247738252489408	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e30415a6286a758e
+1	716	1793247738285778624	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	69564df976882fcb
+3	747	1793247738316895989	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d9fc5b4f919c2e44
+2	830	1793247738399835267	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	3b095d6b23f0c555
+0	891	1793247738460523300	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	95f2507031f0994c
+891	989	1793247738556585844	/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/70g6v585/obj/arm64-v8a/libgame.so	8019a89caea1a374

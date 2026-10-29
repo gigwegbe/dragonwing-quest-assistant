@@ -1,0 +1,2 @@
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

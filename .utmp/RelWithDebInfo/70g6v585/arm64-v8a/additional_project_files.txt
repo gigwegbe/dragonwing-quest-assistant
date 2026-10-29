@@ -1,0 +1,17 @@
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/GAToUnityCallbacks.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroEnd.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroHeaderBegin.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroSourceBegin.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAApplication.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAConfiguration.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGADebug.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAEvents.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAInput.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGASoftKeyboard.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGASoftKeyboardCallbacks.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGATypes.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAVersion.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGACallbacks.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAConfigurationCallbacks.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAKeyEventCallbacks.h
+/Users/george/Projects/QuestCameraKit/dragonwing-quest-assistant/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAMotionEventCallbacks.h
